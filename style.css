@@ -1,0 +1,13 @@
+table {
+    table-layout: auto;
+    border: 1px solid red;
+    width: 150px;
+}
+
+thead {
+    background-color: gainsboro;
+}
+
+.menuItem {
+    display: inline-block;
+}
